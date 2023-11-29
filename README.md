@@ -80,3 +80,11 @@ connectivityStatusSubscription.remove()
 
 ---
 Made with :sparkles: & :heart: by [Mattia Panzeri](https://github.com/panz3r) and [contributors](https://github.com/nearit/react-native-connectivity-status/graphs/contributors)
+
+AndroidX issue fix - Run the below command
+```
+npm install jetifier
+
+npx jetify
+
+npx cap sync android```
